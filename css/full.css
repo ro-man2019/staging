@@ -44,3 +44,7 @@ body {
 .underline:hover {
 	background-size: 100% 88%;
 }
+
+.schedule {
+	padding-top: 1rem;
+}
